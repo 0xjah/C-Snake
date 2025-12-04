@@ -1,0 +1,16 @@
+(C)Snake
+========
+
+Snake Game with theme switcher (Nord,Gruvbox,TempleOS) using raylib & C lang.
+
+Quick Start
+-----------
+
+Run :
+    make \        -- build the src
+         run.    -- start game 
+         clean    -- remove executable 
+
+Credits
+-------
+Raylib:https://www.raylib.com/
